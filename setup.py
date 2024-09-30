@@ -12,7 +12,7 @@ def find_non_private_packages(where='.'):
 
 setup(
     name="paymentgrid",  # Your package name
-    version="0.1",
+    version="1.0.1",
     description="PaymentGrid Core (Python) is the foundational library for mapping credit card specific payment-related data.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
